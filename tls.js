@@ -53,7 +53,7 @@ class TlsBuilder {
     }
 
     Alert(){
-        console.log('HTTP/2 Flood by @Mrasdaas');
+        console.log('Attack send successfully, owner POPO1430');
     }
 
     http2TUNNEL(socket){
